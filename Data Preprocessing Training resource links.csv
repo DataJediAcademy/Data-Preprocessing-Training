@@ -2,3 +2,5 @@ S/N,Topic,Resource Links
 1,"Indexing, Slicing and Subsetting DataFrames in Python",https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset/index.html
 2,Cleaning up Data from Outliers,https://www.pluralsight.com/guides/cleaning-up-data-from-outliers
 3,A Comprehensive Guide to Data Exploration,https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/#two
+4,What are Lambda Functions? A Quick Guide to Lambda Functions in Python,https://www.analyticsvidhya.com/blog/2020/03/what-are-lambda-functions-in-python/
+5,Understanding the Transform Function in Pandas,https://pbpython.com/pandas_transform.html
